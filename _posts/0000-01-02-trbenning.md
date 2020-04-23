@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+The greatest slide of all time, right here.
 Use the left arrow to go back!
